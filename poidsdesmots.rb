@@ -1,4 +1,4 @@
 def poids
 
-    (a..z).map{ |i| i.to_s}
+    (0...36).map{ |i| i.to_s 36 }
 end
